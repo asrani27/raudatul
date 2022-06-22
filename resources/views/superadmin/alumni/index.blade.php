@@ -86,7 +86,7 @@ ADMIN
             </div>
             <!-- /.card-body -->
         </div>
-        {{-- {{$data->links()}} --}}
+        {{$data->links()}}
     </div>
 </div>
 
